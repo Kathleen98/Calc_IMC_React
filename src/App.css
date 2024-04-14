@@ -1,0 +1,6 @@
+.container{
+    min-width: 25vw;
+    min-height: 50vh;
+    background: #704264;
+    padding: 2rem;
+}
